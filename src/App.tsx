@@ -1,7 +1,5 @@
-import KeyBoard from "./components/KeyBoard/KeyBoard";
-
 const App = () => {
-  return <KeyBoard />;
+  return <div></div>;
 };
 
 export default App;
